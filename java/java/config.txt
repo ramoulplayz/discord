@@ -1,5 +1,5 @@
 token=NjA2NTE1MjM1NTM2MjQwNjQw.XVA2kA.0aprsUwhvXs191BBG1uB--wVYPM
-owner=   410848175117565953
+owner=  410848175117565953
 prefix= !9l
 game= 9a3da.life
 stayinchannel=true
